@@ -92,7 +92,7 @@ session_start();
 
 	if ($formular_anzeigen == true) {
 
-
+		//Erklärung
 	?>
 
     <h2>Artikelsuche</h2>
